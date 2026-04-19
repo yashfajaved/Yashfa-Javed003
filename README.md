@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- Animated Typing SVG - Blue Theme -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yashfa+%F0%9F%92%AB;Full+Stack+Developer+%F0%9F%92%BB;React+%26+3D+Web+Enthusiast+%E2%9C%A8;Book+Lover+%26+Home+Decorator+%F0%9F%93%9A;Always+Learning%2C+Always+Growing+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<!-- Animated Typing SVG - Professional Font (Fira Code) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Yashfa+Javed;Full+Stack+Developer;React+%26+3D+Web+Enthusiast;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +27,18 @@
 
 ---
 
+<!-- Coding Animation Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding Animation"/>
+</div>
+
+---
+
 ## 💻 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 I'm a **Full Stack Developer** who bridges the gap between beautiful interfaces and powerful backends. I craft interactive, responsive UI/UX experiences using React and React Native — then wire them to robust server-side logic and real databases, so data flows seamlessly end-to-end. Whether it's a mobile app, a 3D web experience, or a complex relational database — I build it with precision and passion.
 
@@ -40,12 +51,21 @@ const yashfa = {
   currentlyBuilding: "React Native & Three.js Projects",
   learning: "Advanced 3D Graphics, WebGL & AI Integration",
   openTo: "Open Source Collaborations & Exciting Opportunities",
-  hobbies: ["📚 Reading Books", "🏠 Home Decoration & Crafts"],
-  funFact: "I turn late-night ideas into beautiful web experiences ✨",
-  passion: "Full Stack connectivity — bridging frontend & backend seamlessly",
+  hobbies: ["Reading Books", "Home Decoration & Crafts"],
+  funFact: "I turn late-night ideas into web experiences",
+  passion: "Full Stack connectivity — frontend to backend to DB",
   contact: "javedyashfa67@gmail.com"
 };
 ```
+
+  </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Developer at Work"/>
+      <br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Coding"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,6 +103,11 @@ const yashfa = {
 
 <sub>Machine Learning · NLP · CNN · Three.js · WebGL</sub>
 
+</div>
+
+<!-- Tech scroll animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Tech Animation"/>
 </div>
 
 ---
@@ -181,15 +206,19 @@ const yashfa = {
 
 ## 🎯 Goals & Journey
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="Working on Goals"/>
+</div>
+
 ```
 ✅  Build 50+ GitHub projects
 ✅  Contribute to open source
 ✅  Create a 3D portfolio
-✅  Master full stack (frontend ↔ backend ↔ database)
+✅  Master full stack (frontend to backend to database)
 🔜  Explore WebGPU
 🔜  Integrate AI into web applications
 🔜  Publish technical articles
-💫  Keep growing — step by step, skill by skill
+>>  Keep growing — step by step, skill by skill
 ```
 
 ---
@@ -203,6 +232,10 @@ const yashfa = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=7eb8f7)](https://linkedin.com/in/yashfa-javed)
 [![Twitter](https://img.shields.io/badge/Twitter-1a3a6e?style=for-the-badge&logo=twitter&logoColor=7eb8f7)](https://twitter.com/)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Footer Animation"/>
 </div>
 
 ---
@@ -219,8 +252,8 @@ const yashfa = {
 
 <div align="center">
 
-*"She believed she could, so she did." 💫*
+*"Code is not just logic — it is craft."*
 
-⭐️ **If you find my work inspiring, feel free to star a repo!** ⭐️
+⭐️ **If you find my work valuable, feel free to star a repo!** ⭐️
 
 </div>
