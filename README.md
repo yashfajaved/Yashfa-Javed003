@@ -2,7 +2,7 @@
 
 <!-- ✅ Replace the path below with your actual Canva banner exported to your repo's assets/ folder -->
 <!-- Remove the capsule-render header below once you add your custom banner -->
-<p align="center"><img src="assests/banner.png" alt="Profile Banner" width="100%"></p>
+<p align="center"><img src="assests/banner.jpg" alt="Profile Banner" width="100%"></p>
 
 </div>
 
